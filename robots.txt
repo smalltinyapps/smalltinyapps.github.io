@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smalltinyapps.github.io/sitemap.xml

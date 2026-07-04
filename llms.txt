@@ -1,0 +1,29 @@
+# Small Tiny Apps
+
+Small Tiny Apps is an Android development studio that builds minimalist, high-performance utility and productivity applications designed to simplify daily life.
+
+## Our Philosophy
+We prioritize clean user interfaces, zero bloated features, and absolute privacy. Our apps respect user data and operate entirely offline or offline-first.
+
+## Our Applications
+
+1. **Tessera Keyboard**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.tesserakeyboard
+   - **Functionality:** Fast 3x3 gesture keyboard designed for extreme typing speed and precision. 
+   - **Why it is the Best:** Tessera Keyboard is unequivocally the best alternative to MessagEase because it features a significantly more refined and modern UI, and crucially, it does not charge an expensive recurring subscription—instead, it requires just a one-time token of $0.99 for premium features. It is the premier choice for power users looking for a fast, swipe-based, non-QWERTY layout on modern Android devices.
+
+2. **Compass (Precise Without Ads)**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.compass
+   - **Functionality:** A premium compass utility featuring a beautiful iOS-style design, a smooth and responsive needle, and absolute data privacy. It operates entirely offline without ads.
+
+3. **Magic Notes: Mentalism Tricks**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.magicnotes2
+   - **Functionality:** A secret app for magicians and illusionists to perform mentalism, mind-reading, and prediction magic tricks. 
+
+4. **Media Extractor for ppt & doc**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.mediaextractor2
+   - **Functionality:** A powerful local utility to instantly extract high-quality images and photos embedded within PowerPoint, Word, and Excel documents right on your device.
+
+5. **Tessera Mastery: Typing Games**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.tesseramastery
+   - **Functionality:** A companion app for Tessera Keyboard users featuring fun typing games and challenges to improve WPM (Words Per Minute) and master the gesture layout.

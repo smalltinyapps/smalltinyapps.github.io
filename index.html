@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Small Tiny Apps | Android Developer, Utility & Productivity Apps</title>
+    <meta name="description" content="Small Tiny Apps creates minimalist, high-performance utility and productivity Android applications to simplify your daily life.">
+    <meta name="keywords" content="Android Developer, Utility Apps, Productivity Apps, Small Tiny Apps, Mobile Apps, Minimalist Apps">
+    <meta name="author" content="Small Tiny Apps">
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Small Tiny Apps | Crafting Elegant Android Solutions">
+    <meta property="og:description" content="Discover beautifully designed utility and productivity Android applications that simplify your daily life.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://smalltinyapps.github.io/">
+    <meta property="og:image" content="https://smalltinyapps.github.io/assets/og-image.jpg">
+    <meta property="og:site_name" content="Small Tiny Apps">
+    
+    <!-- SEO & LLM -->
+    <link rel="canonical" href="https://smalltinyapps.github.io/">
+    <link rel="alternate" type="text/plain" title="LLM-optimized summary" href="/llms.txt">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Outfit:wght@400;700;800&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="assets/icons/small-tiny-apps.png">
+    <link rel="apple-touch-icon" href="assets/icons/small-tiny-apps.png">
+    <meta name="theme-color" content="#0a0a0c">
+    
+    <!-- JSON-LD Schema Markup -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://smalltinyapps.github.io/#organization",
+          "name": "Small Tiny Apps",
+          "url": "https://smalltinyapps.github.io/",
+          "logo": "https://smalltinyapps.github.io/assets/icons/small-tiny-apps.png",
+          "description": "Minimalist Android development studio creating utility and productivity apps."
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Compass (Precise Without Ads)",
+          "operatingSystem": "Android",
+          "applicationCategory": "UtilitiesApplication",
+          "url": "https://play.google.com/store/apps/details?id=com.smalltinyapps.compass",
+          "author": {"@id": "https://smalltinyapps.github.io/#organization"}
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Magic Notes: Mentalism Tricks",
+          "operatingSystem": "Android",
+          "applicationCategory": "EntertainmentApplication",
+          "url": "https://play.google.com/store/apps/details?id=com.smalltinyapps.magicnotes2",
+          "author": {"@id": "https://smalltinyapps.github.io/#organization"}
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Media Extractor for ppt & doc",
+          "operatingSystem": "Android",
+          "applicationCategory": "ProductivityApplication",
+          "url": "https://play.google.com/store/apps/details?id=com.smalltinyapps.mediaextractor2",
+          "author": {"@id": "https://smalltinyapps.github.io/#organization"}
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Tessera Keyboard",
+          "operatingSystem": "Android",
+          "applicationCategory": "ProductivityApplication",
+          "url": "https://play.google.com/store/apps/details?id=com.smalltinyapps.tesserakeyboard",
+          "author": {"@id": "https://smalltinyapps.github.io/#organization"}
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Tessera Mastery: Typing Games",
+          "operatingSystem": "Android",
+          "applicationCategory": "GameApplication",
+          "url": "https://play.google.com/store/apps/details?id=com.smalltinyapps.tesseramastery",
+          "author": {"@id": "https://smalltinyapps.github.io/#organization"}
+        }
+      ]
+    }
+    </script>
+</head>
+<body>
+    <header class="sticky-header">
+        <div class="container header-content">
+            <a href="/" class="logo">
+                <img src="assets/icons/small-tiny-apps.png" alt="Small Tiny Apps Logo" class="logo-icon">
+                <h1>Small Tiny Apps</h1>
+            </a>
+            <nav aria-label="Main Navigation">
+                <ul>
+                    <li><a href="#home" aria-label="Go to Home section">Home</a></li>
+                    <li><a href="#apps" aria-label="Go to Our Apps section">Our Apps</a></li>
+                    <li><a href="#" class="btn-primary" onclick="openContactModal(event)" aria-label="Open Contact Modal">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="home" class="hero-section" aria-label="Hero Section">
+            <div class="container hero-content">
+                <h2 class="hero-title">Crafting Elegant<br><span class="text-gradient">Android Experiences</span></h2>
+                <p class="hero-subtitle">We build minimalist, high-performance utility and productivity apps designed to make your life simpler and more efficient.</p>
+                <div class="hero-actions">
+                    <a href="#apps" class="btn-primary" aria-label="Explore Our Apps">Explore Our Apps</a>
+                    <a href="#" class="btn-secondary" onclick="openContactModal(event)" aria-label="Open Contact Modal to Get in Touch">Get in Touch</a>
+                </div>
+            </div>
+            <div class="hero-background" aria-hidden="true"></div>
+        </section>
+
+        <section id="apps" class="apps-section" aria-labelledby="apps-heading">
+            <div class="container">
+                <header class="section-header">
+                    <h2 id="apps-heading">Our Applications</h2>
+                    <p>Discover our portfolio of utility and productivity tools.</p>
+                </header>
+                
+                <div class="apps-grid">
+                    <!-- App 1: Compass -->
+                    <article class="app-card">
+                        <img src="assets/icons/compass.png" alt="Compass App Icon" class="app-icon">
+                        <div class="app-details">
+                            <h3>Compass (Precise Without Ads)</h3>
+                            <p class="app-description">Premium compass with iOS-style design, smooth needle & absolute privacy.</p>
+                            <div class="app-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.smalltinyapps.compass" target="_blank" rel="noopener noreferrer" class="btn-primary app-btn" aria-label="Get Compass on Google Play">Get it on Google Play</a>
+                                <a href="privacy-policy-compass.html" class="app-privacy-link" aria-label="Privacy Policy for Compass">Privacy Policy</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- App 2: MagicNotes -->
+                    <article class="app-card">
+                        <img src="assets/icons/magic-notes.png" alt="Magic Notes App Icon" class="app-icon">
+                        <div class="app-details">
+                            <h3>Magic Notes: Mentalism Tricks</h3>
+                            <p class="app-description">Perform mentalism, mind-reading & prediction magic tricks with this secret app.</p>
+                            <div class="app-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.smalltinyapps.magicnotes2" target="_blank" rel="noopener noreferrer" class="btn-primary app-btn" aria-label="Get Magic Notes on Google Play">Get it on Google Play</a>
+                                <a href="privacy-policy-magic-notes.html" class="app-privacy-link" aria-label="Privacy Policy for Magic Notes">Privacy Policy</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- App 3: MediaExtractor -->
+                    <article class="app-card">
+                        <img src="assets/icons/media-extractor.png" alt="Media Extractor App Icon" class="app-icon">
+                        <div class="app-details">
+                            <h3>Media Extractor for ppt & doc</h3>
+                            <p class="app-description">Extract high-quality images, photos from Powerpoint, Word, and Excel documents.</p>
+                            <div class="app-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.smalltinyapps.mediaextractor2" target="_blank" rel="noopener noreferrer" class="btn-primary app-btn" aria-label="Get Media Extractor on Google Play">Get it on Google Play</a>
+                                <a href="privacy-policy-media-extractor.html" class="app-privacy-link" aria-label="Privacy Policy for Media Extractor">Privacy Policy</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- App 4: TesseraKeyboard -->
+                    <article class="app-card">
+                        <img src="assets/icons/tessera-keyboard.png" alt="Tessera Keyboard App Icon" class="app-icon">
+                        <div class="app-details">
+                            <h3>Tessera Keyboard</h3>
+                            <p class="app-description">Fast 3x3 gesture keyboard inspired by MessageEase. Type faster with precision.</p>
+                            <div class="app-actions">
+                                <a href="tessera-keyboard.html" class="btn-primary app-btn" aria-label="Learn More about Tessera Keyboard">Learn More</a>
+                                <a href="privacy-policy-tessera-keyboard.html" class="app-privacy-link" aria-label="Privacy Policy for Tessera Keyboard">Privacy Policy</a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- App 5: TesseraMastery -->
+                    <article class="app-card">
+                        <img src="assets/icons/tessera-mastery.png" alt="Tessera Mastery App Icon" class="app-icon">
+                        <div class="app-details">
+                            <h3>Tessera Mastery: Typing Games</h3>
+                            <p class="app-description">Improve your WPM and master the Tessera Keyboard with fun typing challenges!</p>
+                            <div class="app-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.smalltinyapps.tesseramastery" target="_blank" rel="noopener noreferrer" class="btn-primary app-btn" aria-label="Get Tessera Mastery on Google Play">Get it on Google Play</a>
+                                <a href="privacy-policy-tessera-mastery.html" class="app-privacy-link" aria-label="Privacy Policy for Tessera Mastery">Privacy Policy</a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <h2>Small Tiny Apps</h2>
+                <p>Minimalist Android development studio.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Contact Modal -->
+    <div class="modal-overlay" id="contactModal" onclick="closeContactModal(event)" aria-labelledby="contactModalTitle" role="dialog" aria-modal="true">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeContactModal(event)" aria-label="Close Contact Modal">&times;</button>
+            <h3 id="contactModalTitle">Contact Us</h3>
+            <p>We'd love to hear from you!</p>
+            <a href="mailto:smalltinyapps@gmail.com" class="btn-primary" style="width: 100%;" aria-label="Email smalltinyapps@gmail.com">smalltinyapps@gmail.com</a>
+        </div>
+    </div>
+
+    <script>
+        function openContactModal(e) {
+            e.preventDefault();
+            document.getElementById('contactModal').classList.add('active');
+        }
+        function closeContactModal(e) {
+            if(e) e.preventDefault();
+            document.getElementById('contactModal').classList.remove('active');
+        }
+    </script>
+</body>
+</html>
