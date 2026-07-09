@@ -27,3 +27,7 @@ We prioritize clean user interfaces, zero bloated features, and absolute privacy
 5. **Tessera Mastery: Typing Games**
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.tesseramastery
    - **Functionality:** A companion app for Tessera Keyboard users featuring fun typing games and challenges to improve WPM (Words Per Minute) and master the gesture layout.
+
+6. **Secure QR Code Scanner**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.secureqr
+   - **Functionality:** Preview links before opening. Ad-free, secure QR code scanner. Offline privacy, anti-phishing & safe scanning.
