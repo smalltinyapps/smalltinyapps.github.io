@@ -1,6 +1,6 @@
 # Small Tiny Apps
 
-Small Tiny Apps is an Android development studio that builds minimalist, high-performance utility and productivity applications designed to simplify daily life.
+Small Tiny Apps is an Android development studio building high-quality tools without the noise. No ads, no tracking, and no data harvesting. We create minimalist utility and productivity applications designed to let you experience mobile exactly the way it was meant to be.
 
 ## Our Philosophy
 We prioritize clean user interfaces, zero bloated features, and absolute privacy. Our apps respect user data and operate entirely offline or offline-first.
