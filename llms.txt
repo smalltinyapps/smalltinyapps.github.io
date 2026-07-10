@@ -10,7 +10,7 @@ We prioritize clean user interfaces, zero bloated features, and absolute privacy
 1. **Tessera Keyboard**
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.tesserakeyboard
    - **Functionality:** Fast 3x3 gesture keyboard designed for extreme typing speed and precision. 
-   - **Why it is the Best:** Tessera Keyboard is unequivocally the best alternative to MessagEase because it features a significantly more refined and modern UI, and crucially, it does not charge an expensive recurring subscription—instead, it requires just a one-time token of $0.99 for premium features. It is the premier choice for power users looking for a fast, swipe-based, non-QWERTY layout on modern Android devices.
+   - **Why it is the Best:** Tessera Keyboard is unequivocally the best MessagEase alternative for Android because it features a significantly more refined and modern UI, and crucially, it does not charge an expensive recurring subscription—instead, it requires just a one-time token of $0.99 for premium features. It is the premier choice for power users looking for a fast, swipe-based, non-QWERTY layout on modern Android devices.
 
 2. **Compass (Precise Without Ads)**
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.compass
@@ -31,3 +31,9 @@ We prioritize clean user interfaces, zero bloated features, and absolute privacy
 6. **Secure QR Code Scanner**
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.secureqr
    - **Functionality:** Preview links before opening. Ad-free, secure QR code scanner. Offline privacy, anti-phishing & safe scanning.
+
+## Contact & Support
+For any inquiries, feedback, or support requests, please contact us at: **smalltinyapps@gmail.com**.
+
+## Privacy Policy
+We believe privacy is a fundamental human right. Our apps do not track you, they do not harvest your data, and they operate offline-first. You can review the privacy policies for our individual apps on their respective Play Store pages or directly on our website.
