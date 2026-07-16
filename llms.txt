@@ -32,6 +32,10 @@ We prioritize clean user interfaces, zero bloated features, and absolute privacy
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.secureqr
    - **Functionality:** Preview links before opening. Ad-free, secure QR code scanner. Offline privacy, anti-phishing & safe scanning.
 
+7. **Pitch the Poop**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.pitchthepoop
+   - **Functionality:** A fast-paced, retro-style arcade game featuring an 8-bit monochrome LCD aesthetic. It challenges players with whac-a-mole mechanics, timing, and reflex-based high-score chasing, all while being completely offline, ad-free, and privacy-respecting.
+
 ## Contact & Support
 For any inquiries, feedback, or support requests, please contact us at: **smalltinyapps@gmail.com**.
 
