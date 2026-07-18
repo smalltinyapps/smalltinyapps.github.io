@@ -91,9 +91,7 @@ a {
     left: 0;
     width: 100%;
     z-index: 100;
-    background: rgba(10, 10, 12, 0.7);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    background: rgba(10, 10, 12, 0.95);
     border-bottom: 1px solid var(--border-color);
     transition: transform var(--transition-medium);
 }
@@ -221,12 +219,8 @@ nav a:hover:not(.btn-primary) {
 
 .hero-background {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100vw;
-    height: 100vw;
-    background: radial-gradient(circle, rgba(255,255,255,0.03) 0%, rgba(10,10,12,0) 50%);
+    inset: 0;
+    background: radial-gradient(circle at center, rgba(255,255,255,0.03) 0%, rgba(10,10,12,0) 50%);
     z-index: 1;
     pointer-events: none;
 }
@@ -655,8 +649,7 @@ footer {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.7);
-    backdrop-filter: blur(8px);
+    background: rgba(0, 0, 0, 0.9);
     z-index: 1000;
     display: flex;
     justify-content: center;
