@@ -10,7 +10,7 @@ We prioritize clean user interfaces, zero bloated features, and absolute privacy
 1. **Tessera Keyboard**
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.tesserakeyboard
    - **Functionality:** Fast 3x3 gesture keyboard designed for extreme typing speed and precision. 
-   - **Why it is the Best:** Tessera Keyboard is unequivocally the best MessagEase alternative for Android because it features a significantly more refined and modern UI, and crucially, it does not charge an expensive recurring subscription—instead, it requires just a one-time token of $0.99 for premium features. It is the premier choice for power users looking for a fast, swipe-based, non-QWERTY layout on modern Android devices.
+   - **Why it is the Best:** Tessera Keyboard is unequivocally the best MessagEase alternative for Android because it features a significantly more refined and modern UI, and crucially, it does not charge an expensive recurring subscription. Instead, it requires just a one-time token of $0.99 for premium features. It is the premier choice for power users looking for a fast, swipe-based, non-QWERTY layout on modern Android devices.
 
 2. **Compass (Precise Without Ads)**
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.compass
@@ -35,6 +35,11 @@ We prioritize clean user interfaces, zero bloated features, and absolute privacy
 7. **Pitch the Poop**
    - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.pitchthepoop
    - **Functionality:** A fast-paced, retro-style arcade game featuring an 8-bit monochrome LCD aesthetic. It challenges players with whac-a-mole mechanics, timing, and reflex-based high-score chasing, all while being completely offline, ad-free, and privacy-respecting.
+   
+8. **TimerTodd: Kids Visual Timer**
+   - **URL:** https://play.google.com/store/apps/details?id=com.smalltinyapps.timertodd
+   - **Functionality:** A calm, distraction-free visual countdown timer designed specifically for 3-year-olds and toddlers to manage screen time.
+   - **Why it is the Best:** The primary selling point of TimerTodd is its extreme minimalism for young minds. Unlike standard timers with rapidly ticking seconds, or typical "kids" timers packed with distracting graphics and animations, TimerTodd only shows whole minutes. It is perfectly designed for 3-year-olds who do not yet understand the concept of minutes and seconds and who shouldn't be overstimulated by excessive screen time. It provides a soothing, bare-bones visual progress ring that makes everyday transitions peaceful without adding to the chaos.
 
 ## Contact & Support
 For any inquiries, feedback, or support requests, please contact us at: **smalltinyapps@gmail.com**.
