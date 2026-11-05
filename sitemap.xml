@@ -2,60 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://smalltinyapps.github.io/</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://smalltinyapps.github.io/tessera-keyboard.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <!-- Privacy Policies -->
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-compass.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-magic-notes.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-media-extractor.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-tessera-keyboard.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-tessera-mastery.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-secure-qr-code-scanner.html</loc>
-        <lastmod>2026-07-10</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-pitch-the-poop.html</loc>
-        <lastmod>2026-07-16</lastmod>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
+    </url>
     <url>
         <loc>https://smalltinyapps.github.io/privacy-policy-timertodd.html</loc>
-        <lastmod>2026-09-19</lastmod>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <!-- Terms of Service -->
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-compass.html</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-magic-notes.html</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-media-extractor.html</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-secure-qr-code-scanner.html</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-timertodd.html</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-tessera-keyboard.html</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-pitch-the-poop.html</loc>
+        <lastmod>2026-11-05</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://smalltinyapps.github.io/terms-tessera-mastery.html</loc>
+        <lastmod>2026-11-05</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.5</priority>
     </url>
